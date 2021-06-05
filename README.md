@@ -9,7 +9,7 @@ For this project we were assigned to access "GitHub" so that we could become mor
 
 ## Main TakeAway/Interest From this Project:
 
-- My main interest was the fact that it sent me back to the aspect of html whihc is a part of IT I love the most!
+- My main interest was the fact that it sent me back to the aspect of html which is a part of IT I love the most!
 
 
 
