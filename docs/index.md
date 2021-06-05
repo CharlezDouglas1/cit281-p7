@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Welcome to Project 7 Review
 
-You can use the [editor on GitHub](https://github.com/CharlezDouglas1/cit281-p7/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+For this project we were assigned to access "GitHub" so that we could become more familiar with it for ourselves and for future references such as projects and grades.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Learning Objectives:
+- gaining more experience working with GitHub repos
+- gaining experience working with GitHub Pages
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Main TakeAway/Interest From this Project:
 
-```markdown
-Syntax highlighted code block
+- My main interest was the fact that it sent me back to the aspect of html whihc is a part of IT I love the most!
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CharlezDouglas1/cit281-p7/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![IT](https://user-images.githubusercontent.com/81718217/120878046-bba29180-c56e-11eb-8050-75fcc022b54a.jpg)
